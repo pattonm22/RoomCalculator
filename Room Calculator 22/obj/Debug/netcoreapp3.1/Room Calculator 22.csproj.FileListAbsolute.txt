@@ -1,0 +1,14 @@
+C:\DevBuild22\Room Calculator 22\Room Calculator 22\bin\Debug\netcoreapp3.1\Room Calculator 22.exe
+C:\DevBuild22\Room Calculator 22\Room Calculator 22\bin\Debug\netcoreapp3.1\Room Calculator 22.deps.json
+C:\DevBuild22\Room Calculator 22\Room Calculator 22\bin\Debug\netcoreapp3.1\Room Calculator 22.runtimeconfig.json
+C:\DevBuild22\Room Calculator 22\Room Calculator 22\bin\Debug\netcoreapp3.1\Room Calculator 22.runtimeconfig.dev.json
+C:\DevBuild22\Room Calculator 22\Room Calculator 22\bin\Debug\netcoreapp3.1\Room Calculator 22.dll
+C:\DevBuild22\Room Calculator 22\Room Calculator 22\bin\Debug\netcoreapp3.1\Room Calculator 22.pdb
+C:\DevBuild22\Room Calculator 22\Room Calculator 22\obj\Debug\netcoreapp3.1\Room Calculator 22.csproj.AssemblyReference.cache
+C:\DevBuild22\Room Calculator 22\Room Calculator 22\obj\Debug\netcoreapp3.1\Room Calculator 22.GeneratedMSBuildEditorConfig.editorconfig
+C:\DevBuild22\Room Calculator 22\Room Calculator 22\obj\Debug\netcoreapp3.1\Room Calculator 22.AssemblyInfoInputs.cache
+C:\DevBuild22\Room Calculator 22\Room Calculator 22\obj\Debug\netcoreapp3.1\Room Calculator 22.AssemblyInfo.cs
+C:\DevBuild22\Room Calculator 22\Room Calculator 22\obj\Debug\netcoreapp3.1\Room Calculator 22.csproj.CoreCompileInputs.cache
+C:\DevBuild22\Room Calculator 22\Room Calculator 22\obj\Debug\netcoreapp3.1\Room Calculator 22.dll
+C:\DevBuild22\Room Calculator 22\Room Calculator 22\obj\Debug\netcoreapp3.1\Room Calculator 22.pdb
+C:\DevBuild22\Room Calculator 22\Room Calculator 22\obj\Debug\netcoreapp3.1\Room Calculator 22.genruntimeconfig.cache

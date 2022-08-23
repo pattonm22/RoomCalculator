@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "8Em5RVSSiGn023tFTj+y3dL0ARsHzMtqHVE6Ea6kjWGA62AX272TRA6QBZwJPzc2k3q1ibcYACJEJvbOSek0QQ==",
+  "success": true,
+  "projectFilePath": "C:\\DevBuild22\\Room Calculator 22\\Room Calculator 22\\Room Calculator 22.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\MPatton5\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.25\\microsoft.netcore.app.host.win-x64.3.1.25.nupkg.sha512"
+  ],
+  "logs": []
+}
